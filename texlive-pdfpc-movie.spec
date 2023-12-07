@@ -1,6 +1,6 @@
 Name:		texlive-pdfpc-movie
-Version:	48245
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Pdfpc viewer-compatible hyperlinks to movies
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfpc-movie
